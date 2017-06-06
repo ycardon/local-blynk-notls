@@ -1,0 +1,17 @@
+{
+  "name": "local-blynk-notls",
+  "version": "1.0.0",
+  "description": "Using the blynk-library with a local Blynk server without TLS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yann Cardon",
+  "license": "ISC",
+  "dependencies": {
+    "blynk-library": "^0.4.7",
+    "config": "^1.26.1",
+    "js-yaml": "^3.8.4"
+  }
+}

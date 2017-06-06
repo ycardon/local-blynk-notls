@@ -1,0 +1,6 @@
+# your local blynk server
+blynk_ip: 'xxx.xxx.xxx.xxx'
+blynk_port: 0000
+
+# your project token
+blynk_token: 'aaaaaaaaaaaaaaaaaaaaaaaaaaaa'
